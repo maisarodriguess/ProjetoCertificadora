@@ -12,9 +12,9 @@ Este projeto tem como objetivo desenvolver um **Recurso Educacional Aberto (REA)
 
 ## Desenvolvido por
 
-- Integrante 1
-- Integrante 2
-- Integrante 3
-- Integrante 4
+- Integrante 1 - Maisa Rodrigues 
+- Integrante 2 - Douglas Cunha 
+- Integrante 3 - Eduardo Carvalho de Oliveira 
+- Integrante 4 - Cidalia Santos de Oliveira 
 
 ProjetoCertificadora
