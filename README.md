@@ -6,8 +6,8 @@ Este projeto tem como objetivo desenvolver um **Recurso Educacional Aberto (REA)
 
 ## Tecnologias Utilizadas
 
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
 - **JavaScript**
 
 ## Desenvolvido por
@@ -17,4 +17,4 @@ Este projeto tem como objetivo desenvolver um **Recurso Educacional Aberto (REA)
 - Integrante 3
 - Integrante 4
 
-# ProjetoCertificadora
+ProjetoCertificadora
