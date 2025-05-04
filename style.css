@@ -75,3 +75,26 @@ a:hover {
     text-decoration: none;
     margin-right: 5px; 
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #0066cc;
+    color: white;
+  }
+  
+  tfoot {
+    background-color: #0066cc;
+    color: white;
+  }
+  
